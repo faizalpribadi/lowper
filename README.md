@@ -9,4 +9,4 @@ Transform string into upper and lower case with better error handler and validat
 
 ### Usage
 
-`see example test [lowper_test.go](https://github.com/faizalpribadi/lowper/blob/master/lowper_test.go)`
+- see example test [lowper_test.go](https://github.com/faizalpribadi/lowper/blob/master/lowper_test.go)
